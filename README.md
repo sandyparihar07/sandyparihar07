@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sandeep Parihar</h1>
 <h3 align="center">A passionate Ecommerce Project Manager from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandyparihar07&label=Profile%20views&color=0e75b6&style=flat" alt="sandyparihar07" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandyparihar07" alt="sandyparihar07" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/sandeeeparihar" target="blank"><img src="https://img.shields.io/twitter/follow/sandeeeparihar?logo=twitter&style=for-the-badge" alt="sandeeeparihar" /></a> </p>
-
 - 💬 Ask me about **Shopify, SEO, WordPress**
 
 - 📫 How to reach me **parihar.sandy2010@gmail.com**
