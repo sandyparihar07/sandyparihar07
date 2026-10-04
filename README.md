@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sandeep Parihar</h1>
-<h3 align="center">A passionate Ecommerce Project Manager from India</h3>
+<h3 align="center">A passionate WordPress, Shopify, Ecommerce Project Manager from India</h3>
 
 - 💬 Ask me about **Shopify, SEO, WordPress**
 
